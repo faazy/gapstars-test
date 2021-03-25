@@ -1,0 +1,17 @@
+{
+  "name": "gapstars/otrium",
+  "description": "Code Test",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Faazi Ahamed",
+      "email": "faaziahamed@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "require": {}
+}
